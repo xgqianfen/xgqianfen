@@ -1,0 +1,17 @@
+{
+  "name": "拾绪 · 灵感日记",
+  "short_name": "拾绪",
+  "description": "极简本地日记本",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
